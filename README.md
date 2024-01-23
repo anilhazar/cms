@@ -18,6 +18,13 @@ The development process of the project began with the identification of requirem
 
 Throughout this process, I gained significant skills in areas such as database modeling, RESTful API design, and SOLID principles. Moreover, this project allowed me to deepen my understanding of complex system architecture and improve my problem-solving skills.
 
+### Entity Relationship Diagram
+![ER Diagram CMS](https://github.com/anilhazar/cms/assets/112640395/b85273f3-c902-4e4a-a49f-d19f17d6e321)
+
+### Database Relation Model
+![Database Relation Model CMS](https://github.com/anilhazar/cms/assets/112640395/6dad9d9e-6fb8-493b-b0aa-c537a8998cad)
+
+
 ## Contributing
 
 This project is open source and contributions are welcome. Please follow the steps below to contribute:
