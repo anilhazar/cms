@@ -1,4 +1,4 @@
-# CMS (Content Management System)
+# CMS (Company Management System)
 
 ## Project Summary
 
